@@ -4,7 +4,7 @@ public class ListaLigada {
 
     private No inicio;
 
-    ListaLigada() {
+    public ListaLigada() {
         inicio = null;
     }
 
